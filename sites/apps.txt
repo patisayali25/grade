@@ -1,0 +1,11 @@
+frappe
+grade
+demo_app
+web
+hrms
+technology
+library_management
+qr_demo
+payments
+erpnext
+qr_ticketing

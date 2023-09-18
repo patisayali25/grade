@@ -1,0 +1,45 @@
+2023-08-08 15:22:16,020 ERROR frappe New Exception collected with id: 2023-08-08 15:22:15.986595-127.0.0.1-d44
+Site: india.in
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Article1","name":"new-article1-2","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Available","__run_link_triggers":1,"article_name":"Rich Dad Poor Dad"}', 'cmd': 'frappe.client.save'}
+2023-08-08 15:22:52,898 ERROR frappe New Exception collected with id: 2023-08-08 15:22:52.896215-127.0.0.1-735
+Site: india.in
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Article1","name":"new-article1-2","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Available","article_name":"Rich Dad Poor Dad","author":"daff","isbn":"hbah","description":"<div class=\\"ql-editor read-mode\\"><p>vsahxga</p></div>"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-08-08 15:24:18,219 ERROR frappe New Exception collected with id: 2023-08-08 15:24:18.182154-127.0.0.1-f3d
+Site: india.in
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Article1","name":"new-article1-1","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Available","__run_link_triggers":1,"article_name":"Ritch dad poor dad"}', 'cmd': 'frappe.client.save'}
+2023-08-08 15:28:26,254 ERROR frappe New Exception collected with id: 2023-08-08 15:28:26.220678-127.0.0.1-1fa
+Site: india.in
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Membership1","name":"new-library-membership1-1","__islocal":1,"__unsaved":1,"owner":"Administrator","paid":1,"library_member":"LM00001","from_date":"2023-08-07","to_date":"2023-08-10","full_name":null}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-08-08 15:30:36,603 ERROR frappe New Exception collected with id: 2023-08-08 15:30:36.575909-127.0.0.1-afa
+Site: india.in
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Membership1","name":"new-library-membership1-1","__islocal":1,"__unsaved":1,"owner":"Administrator","paid":1,"library_member":"LM00001","from_date":"2023-08-07","to_date":"2023-08-10","full_name":null}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-08-08 15:30:44,479 ERROR frappe New Exception collected with id: 2023-08-08 15:30:44.478142-127.0.0.1-73f
+Site: india.in
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Membership1","name":"new-library-membership1-1","__islocal":1,"__unsaved":1,"owner":"Administrator","paid":1,"library_member":"LM00001","from_date":"2023-08-07","to_date":"2023-08-10","full_name":null}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-08-08 15:30:47,769 ERROR frappe New Exception collected with id: 2023-08-08 15:30:47.768198-127.0.0.1-b67
+Site: india.in
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Membership1","name":"new-library-membership1-1","__islocal":1,"__unsaved":1,"owner":"Administrator","paid":1,"library_member":"LM00001","from_date":"2023-08-07","to_date":"2023-08-10","full_name":null}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-08-08 15:30:51,306 ERROR frappe New Exception collected with id: 2023-08-08 15:30:51.300820-127.0.0.1-217
+Site: india.in
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Membership1","name":"new-library-membership1-1","__islocal":1,"__unsaved":1,"owner":"Administrator","paid":1,"library_member":"LM00001","from_date":"2023-08-07","to_date":"2023-08-10","full_name":null}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-08-08 15:31:37,029 ERROR frappe New Exception collected with id: 2023-08-08 15:31:37.025144-127.0.0.1-b0d
+Site: india.in
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Membership1","name":"new-library-membership1-1","__islocal":1,"__unsaved":1,"owner":"Administrator","paid":1,"library_member":"LM00001","from_date":"2023-08-07","to_date":"2023-08-10","full_name":null}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-08-08 15:34:54,829 ERROR frappe New Exception collected with id: 2023-08-08 15:34:54.827261-127.0.0.1-941
+Site: india.in
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Membership1","name":"new-library-membership1-1","__islocal":1,"__unsaved":1,"owner":"Administrator","paid":1,"full_name":null,"library_member":"LM00001","from_date":"2023-08-08","to_date":"2023-08-25"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-08-08 15:36:44,166 ERROR frappe New Exception collected with id: 2023-08-08 15:36:44.164167-127.0.0.1-229
+Site: india.in
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Membership1","name":"new-library-membership1-1","__islocal":1,"__unsaved":1,"owner":"Administrator","paid":1,"full_name":null,"library_member":"LM00001","from_date":"2023-08-08","to_date":"2023-08-16"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-08-08 16:26:19,703 ERROR frappe New Exception collected with id: 2023-08-08 16:26:19.670771-127.0.0.1-bf1
+Site: india.in
+Form Dict: {'doctype': 'Library Settings', 'name': 'Library Settings', 'cmd': 'frappe.desk.form.load.getdoc'}
+2023-08-08 16:30:29,658 ERROR frappe New Exception collected with id: 2023-08-08 16:30:29.624530-127.0.0.1-156
+Site: india.in
+Form Dict: {'doctype': 'Library Settings', 'name': 'Library Settings', 'cmd': 'frappe.desk.form.load.getdoc'}
+2023-08-08 16:35:41,045 ERROR frappe New Exception collected with id: 2023-08-08 16:35:41.007276-127.0.0.1-ce8
+Site: india.in
+Form Dict: {'doctype': 'Library Settings', 'with_parent': '1', 'cached_timestamp': '2023-08-08 16:21:30.160484', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2023-08-08 16:35:59,133 ERROR frappe New Exception collected with id: 2023-08-08 16:35:59.116688-127.0.0.1-073
+Site: india.in
+Form Dict: {'doctype': 'Library Settings', 'with_parent': '1', 'cached_timestamp': '2023-08-08 16:21:30.160484', 'cmd': 'frappe.desk.form.load.getdoctype'}
